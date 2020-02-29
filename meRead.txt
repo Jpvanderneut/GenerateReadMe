@@ -1,0 +1,4 @@
+puurpose of project was to make a self generating ReadMe file
+questions are generated to acquire knowledge about the product
+node and javascript were used
+issues with badge and link to github
